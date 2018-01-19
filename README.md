@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+这是《fundamental of deep learning》的中文翻译版本。
 
-You can use the [editor on GitHub](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 章节目录
+- Chapter 1. The Neural Network
+    - [Building Intelligent Machines](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/1.Building%20Intelligent%20Machines.md)
+    - [The Limits of Traditional Computer Programs](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/2.The%20Limits%20of%20Traditional%20Computer%20Programs.md)
+    - [The Mechanics of Machine Learning](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/3.The%20Mechanics%20of%20Machine%20Learning.md)
+    - [The Neuron.md](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/4.The%20Neuron.md)
+    - [Expressing Linear Perceptrons as Neurons](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/5.Expressing%20Linear%20Perceptrons%20as%20Neurons.md)
+    - [Feed-Forward Neural Networks](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/6.Feed-Forward%20Neural%20Networks.md)
+    - [Linear Neurons and Their Limitations]()
+    - [Sigmoid, Tanh and ReLU Neurons]()
+    - [Softmax Output Layers]()
+    - [Looking Forward]()
+- Chapter 2. Training Feed-Forward Neural Networks
+    - [The Fast-Food Problem]()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+ - Chapter 3. Implementing Neural Networks in TensorFlow
+ - Chapter 4. Beyond Gradient Descent
+ - Chapter 5. Convolutional Neural Networks
+ - Chapter 6. Embedding and Representation Learning
+ - Chapter 7. Models for Sequence Analysis
+ - Chapter 8. Memory Augmented Neural Networks
+ - Chapter 9. Deep Reinforcement Learning

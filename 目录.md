@@ -4,7 +4,7 @@
     - [The Mechanics of Machine Learning](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/3.The%20Mechanics%20of%20Machine%20Learning.md)
     - [The Neuron.md](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/4.The%20Neuron.md)
     - [Expressing Linear Perceptrons as Neurons](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/5.Expressing%20Linear%20Perceptrons%20as%20Neurons.md)
-    - [Feed-Forward Neural Networks]()
+    - [Feed-Forward Neural Networks](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/6.Feed-Forward%20Neural%20Networks.md)
     - [Linear Neurons and Their Limitations]()
     - [Sigmoid, Tanh and ReLU Neurons]()
     - [Softmax Output Layers]()
