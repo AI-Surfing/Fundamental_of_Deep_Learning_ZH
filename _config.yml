@@ -1,4 +1,4 @@
-theme: jekyll-theme-merlot
+theme: jekyll-theme-midnight
 - jekyll-coffeescript
 - jekyll-gist
 - jekyll-github-metadata
