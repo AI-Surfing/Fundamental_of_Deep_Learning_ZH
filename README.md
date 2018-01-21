@@ -13,8 +13,8 @@
     - [Softmax Output Layers](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/9.Softmax%20Output%20Layers.md)
     - [Looking Forward](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/10.Looking%20Forward.md)
 - Chapter 2. Training Feed-Forward Neural Networks
-    - [The Fast-Food Problem]()
-    - []()
+    - [The Fast-Food Problem](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/1.The%20Fast-Food%20Problem.md)
+    - [Gradient Descent](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/2.Gradient%20Descent.md)
     - []()
     - []()
     - []()
