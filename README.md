@@ -5,7 +5,7 @@
     - [Building Intelligent Machines](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/1.Building%20Intelligent%20Machines.md)
     - [The Limits of Traditional Computer Programs](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/2.The%20Limits%20of%20Traditional%20Computer%20Programs.md)
     - [The Mechanics of Machine Learning](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/3.The%20Mechanics%20of%20Machine%20Learning.md)
-    - [The Neuron.md](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/4.The%20Neuron.md)
+    - [The Neuron](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/4.The%20Neuron.md)
     - [Expressing Linear Perceptrons as Neurons](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/5.Expressing%20Linear%20Perceptrons%20as%20Neurons.md)
     - [Feed-Forward Neural Networks](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/6.Feed-Forward%20Neural%20Networks.md)
     - [Linear Neurons and Their Limitations](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/7.Linear%20Neurons%20and%20Their%20Limitations.md)
