@@ -1,6 +1,17 @@
 这是《fundamental of deep learning》的中文翻译版本。
 
-## 章节目录
+## 原书信息
+![](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/images_folder/cover.jpg)
+
+**Author**: Nicholas Locascio, Nikhil Buduma
+
+**ISBN-10**: 1491925612
+
+**Year**: 2017
+
+**Pages**: 304
+
+## 目录
 - Chapter 1. The Neural Network
     - [Building Intelligent Machines](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/1.Building%20Intelligent%20Machines.md)
     - [The Limits of Traditional Computer Programs](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter1/2.The%20Limits%20of%20Traditional%20Computer%20Programs.md)
