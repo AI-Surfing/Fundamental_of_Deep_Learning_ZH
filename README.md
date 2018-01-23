@@ -1,4 +1,4 @@
-这是《fundamental of deep learning》的中文翻译版本。
+这是《fundamental of deep learning》的私人中文版 :blush:。
 
 ## 原书信息
 ![](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/images_folder/cover.jpg)
