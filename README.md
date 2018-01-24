@@ -26,13 +26,13 @@
 - Chapter 2. Training Feed-Forward Neural Networks
     - [The Fast-Food Problem](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/1.The%20Fast-Food%20Problem.md)
     - [Gradient Descent](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/2.Gradient%20Descent.md)
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
+    - [The Delta Rule and Learning Rates](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/3.The%20Delta%20Rule%20and%20Learning%20Rates.md)
+    - [Gradient Descent with Sigmoidal Neurons](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/4.Gradient%20Descent%20with%20Sigmoidal%20Neurons.md)
+    - [The Backpropagation Algorithm](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/5.The%20Backpropagation%20Algorithm.md)
+    - [Stochastic and Minibatch Gradient Descent](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/6.Stochastic%20and%20Minibatch%20Gradient%20Descent.md)
+    - [Test Sets, Validation Sets, and Overfitting](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/7.Test%20Sets%2C%20Validation%20Sets%2C%20and%20Overfitting.md)
+    - [Preventing Overfitting in Deep Neural Networks](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/8.Preventing%20Overfitting%20in%20Deep%20Neural%20Networks.md)
+    - [Summary](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/9.Summary.md)
  - Chapter 3. Implementing Neural Networks in TensorFlow
  - Chapter 4. Beyond Gradient Descent
  - Chapter 5. Convolutional Neural Networks
