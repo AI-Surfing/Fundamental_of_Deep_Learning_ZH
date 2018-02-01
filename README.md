@@ -34,6 +34,20 @@
     - [Preventing Overfitting in Deep Neural Networks](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/8.Preventing%20Overfitting%20in%20Deep%20Neural%20Networks.md)
     - [Summary](https://github.com/lucasbyAI/Fundamental_of_Deep_Learning_ZH/blob/master/Chapter2/9.Summary.md)
  - Chapter 3. Implementing Neural Networks in TensorFlow
+   - [What Is TensorFlow?]()
+   - [How Does TensorFlow Compare to Alternatives?]()
+   - [Installing TensorFlow]()
+   - [Creating and Manipulating TensorFlow Variables]()
+   - [TensorFlow Operations]()
+   - [Placeholder Tensors]()
+   - [Sessions in TensorFlow]()
+   - [Navigating Variable Scopes and Sharing Variables]()
+   - [Managing Models over the CPU and GPU]()
+   - [Specifying the Logistic Regression Model in TensorFlow]()
+   - [Logging and Training the Logistic Regression Model]()
+   - [Leveraging TensorBoard to Visualize Computation Graphs and Learning]()
+   - [Building a Multilayer Model for MNIST in TensorFlow]()
+   - [Summary]()
  - Chapter 4. Beyond Gradient Descent
  - Chapter 5. Convolutional Neural Networks
  - Chapter 6. Embedding and Representation Learning
